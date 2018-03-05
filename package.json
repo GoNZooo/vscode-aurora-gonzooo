@@ -2,7 +2,7 @@
     "name": "aurora-gonz",
     "displayName": "Aurora GoNZooo",
     "description": "Derivative of the Aurora theme, somewhat customized for Elixir",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "GoNZooo",
     "engines": {
         "vscode": "^1.20.0"
