@@ -1,7 +1,5 @@
 # Aurora GoNZooo Change Log
 
-All notable changes to the "aurora-gonz" extension will be documented in this file.
-
 ## 0.0.2 - 2018-04-05
 
 - Improved visibility of selection + highlighting of content like selection.
