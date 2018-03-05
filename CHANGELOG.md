@@ -13,3 +13,7 @@ All notable changes to the "aurora-gonz" extension will be documented in this fi
 ## 0.0.5 - 2018-04-05
 
 - Added images
+
+## 0.0.6 - 2018-04-05
+
+- Fixed repository URL
