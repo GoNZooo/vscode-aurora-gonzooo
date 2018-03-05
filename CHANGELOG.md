@@ -10,6 +10,6 @@ All notable changes to the "aurora-gonz" extension will be documented in this fi
 
 - Made comments more readable even when selected, switch to purple selection background
 
-## 0.0.4 - 2018-04-05
+## 0.0.5 - 2018-04-05
 
 - Added images
