@@ -1,0 +1,22 @@
+{
+    "name": "aurora-gonz",
+    "displayName": "Aurora GoNZooo",
+    "description": "Derivative of the Aurora theme, somewhat customized for Elixir",
+    "version": "0.4.0",
+    "publisher": "GoNZooo",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora GoNZooo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AuroraGoNZooo-color-theme.json"
+            }
+        ]
+    }
+}
