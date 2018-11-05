@@ -1,9 +1,7 @@
 {
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
-				"background": "#302e40",
-				"foreground": "#ececec"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -93,7 +91,10 @@
 		},
 		{
 			"name": "Function name",
-			"scope": "entity.name.function",
+			"scope": [
+				"entity.name.function",
+				"entity.name.tag.purescript"
+			],
 			"settings": {
 				"foreground": "#c5e400"
 			}
@@ -160,7 +161,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#c5e400",
 				"fontStyle": "",
 				"foreground": "#e12977"
 			}
@@ -169,7 +169,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#e12977",
 				"foreground": "#ffff05"
 			}
 		},
@@ -179,6 +178,22 @@
 			"settings": {
 				"foreground": "#5f9cff",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Type",
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#4477ff",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Module",
+			"scope": "support.other.module",
+			"settings": {
+				"foreground": "#c5e400",
+				"fontStyle": ""
 			}
 		},
 		{
