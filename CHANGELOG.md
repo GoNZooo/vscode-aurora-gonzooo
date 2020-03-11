@@ -15,3 +15,7 @@
 ## 0.0.6 - 2018-04-05
 
 - Fixed repository URL
+
+## 0.9.0 - 2020-03-11
+
+- Reinstitute old color for modules in module/function bodies

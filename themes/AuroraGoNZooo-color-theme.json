@@ -209,6 +209,14 @@
 			"settings": {
 				"foreground": "#a042c5"
 			}
+		},
+		{
+			"name": "Elixir module",
+			"scope": "variable.other.constant.elixir",
+			"settings": {
+				"foreground": "#5f9cff",
+				"fontStyle": "italic"
+			}
 		}
 	],
 	"colors": {
