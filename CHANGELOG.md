@@ -19,3 +19,7 @@
 ## 0.9.0 - 2020-03-11
 
 - Reinstitute old color for modules in module/function bodies
+
+## 0.9.1 - 2020-03-12
+
+- Add more representative images and cover more languages
