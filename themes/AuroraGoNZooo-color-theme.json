@@ -1,5 +1,6 @@
 {
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"settings": {
 				"foreground": "#ffffff"
 			}
@@ -216,6 +217,20 @@
 			"settings": {
 				"foreground": "#5f9cff",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Inserted line in diff mode",
+			"scope": "markup.inserted.diff",
+			"settings": {
+				"foreground": "#00dd00"
+			}
+		},
+		{
+			"name": "Deleted line in diff mode",
+			"scope": "markup.deleted.diff",
+			"settings": {
+				"foreground": "#ee0000"
 			}
 		}
 	],
