@@ -93,6 +93,7 @@
 		{
 			"name": "Function name",
 			"scope": [
+				"function",
 				"entity.name.function",
 				"entity.name.tag.purescript"
 			],
@@ -106,6 +107,16 @@
 			"settings": {
 				"foreground": "#d9903b",
 				"fontStyle": " italic "
+			}
+		},
+		{
+			"name": "Property",
+			"scope": [
+				"variable.other.property",
+				"property"
+			],
+			"settings": {
+				"foreground": "#ff66cc"
 			}
 		},
 		{
